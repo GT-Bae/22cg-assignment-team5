@@ -1,4 +1,4 @@
-###### p5.js コードリンク (プレイ可能）
+###### p5.js コードリンク (プレイ可能, 韓国語しかありません）
 > [https://editor.p5js.org/gusgotoyu365/sketches/1S8Xcig3L  ](https://editor.p5js.org/GT-bae/sketches/1S8Xcig3L)
 ###### プレイ動画リンク
 > [https://youtu.be/0495HXKVVZ4  ](https://youtu.be/KsNaiD4x7VE)
